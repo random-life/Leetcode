@@ -1,0 +1,1 @@
+利用vector的erase（）front（）和mergeTWOLists函数即可；
