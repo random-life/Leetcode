@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-03-13 17:17:18, I have solved **9** / **957** problems while **140** are still locked.
+Until 2019-03-14 12:17:56, I have solved **13** / **957** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 9
+3. C++: 14
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -20,10 +20,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/005_Longest_Palindromic_Substring/solve.cpp)|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/006_ZigZag_Conversion/solve.cpp)|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/007_Reverse_Integer/solve.cpp)|To Do|
-|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
-|009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|To Do|
-|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|To Do|
-|011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|To Do|
+|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/008_String_to_Integer_(atoi)/solve.cpp)|To Do|
+|009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/009_Palindrome_Number/solve.cpp)|To Do|
+|010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/010_Regular_Expression_Matching/solve2.cpp)|To Do|
+|011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/011_Container_With_Most_Water/solve.cpp)|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|To Do|
