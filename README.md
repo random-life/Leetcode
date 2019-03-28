@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-03-22 11:33:53, I have solved **28** / **961** problems while **140** are still locked.
+Until 2019-03-28 16:28:25, I have solved **33** / **965** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 30
+3. C++: 35
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -43,11 +43,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/028_Implement_strStr()/solve.cpp)|To Do|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/029_Divide_Two_Integers/solve.cpp)|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/030_Substring_with_Concatenation_of_All_Words/solve_time_limited.cpp)|To Do|
-|031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|To Do|To Do|
-|032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
-|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
-|034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
-|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|To Do|To Do|
+|031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/031_Next_Permutation/solve.cpp)|To Do|
+|032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/032_Longest_Valid_Parentheses/solve.cpp)|To Do|
+|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/033_Search_in_Rotated_Sorted_Array/solve.cpp)|To Do|
+|034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/solve.cpp)|To Do|
+|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/035_Search_Insert_Position/solve.cpp)|To Do|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -974,3 +974,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1013|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/) |Easy|To Do|To Do|To Do|To Do|
 |1014|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) |Medium|To Do|To Do|To Do|To Do|
 |1015|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/description/) |Hard|To Do|To Do|To Do|To Do|
+|1020|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/) |Easy|To Do|To Do|To Do|To Do|
+|1021|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) |Medium|To Do|To Do|To Do|To Do|
+|1022|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) |Medium|To Do|To Do|To Do|To Do|
+|1023|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) |Medium|To Do|To Do|To Do|To Do|
