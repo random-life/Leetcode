@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-02 13:41:54, I have solved **36** / **969** problems while **140** are still locked.
+Until 2019-04-04 13:13:08, I have solved **37** / **969** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 38
+3. C++: 39
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -52,7 +52,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/038_Count_and_Say/solve.cpp)|To Do|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/039_Combination_Sum/solve.cpp)|To Do|
-|040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/040_Combination_Sum_II/solve.cpp)|To Do|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|To Do|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|To Do|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|To Do|To Do|
