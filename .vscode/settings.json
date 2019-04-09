@@ -11,7 +11,8 @@
         },
         "[c]": {
             "editor.quickSuggestions": true
-        }
+        },
+        "algorithm": "cpp"
     },
     "files.autoGuessEncoding": true,
     "C_Cpp.errorSquiggles": "Disabled",
