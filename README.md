@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-10 23:33:21, I have solved **40** / **973** problems while **140** are still locked.
+Until 2019-04-12 10:54:19, I have solved **42** / **973** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 42
+3. C++: 44
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -56,10 +56,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/041_First_Missing_Positive/solve.cpp)|To Do|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|To Do|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/043_Multiply_Strings/solve.cpp)|To Do|
-|044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|To Do|
+|044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/044_Wildcard_Matching/solve.cpp)|To Do|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/046_Permutations/solve.cpp)|To Do|
-|047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/047_Permutations_II/solve.cpp)|To Do|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|To Do|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|To Do|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|To Do|
