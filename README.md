@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-12 10:54:19, I have solved **42** / **973** problems while **140** are still locked.
+Until 2019-04-12 21:30:26, I have solved **46** / **973** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 44
+3. C++: 56
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -57,17 +57,17 @@ Note: :lock: means you need to buy a book from LeetCode
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|To Do|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/043_Multiply_Strings/solve.cpp)|To Do|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/044_Wildcard_Matching/solve.cpp)|To Do|
-|045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/045_Jump_Game_II/solve.cpp)|To Do|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/046_Permutations/solve.cpp)|To Do|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/047_Permutations_II/solve.cpp)|To Do|
-|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|To Do|
-|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|To Do|
+|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/048_Rotate_Image/最长递增序列.cpp)|To Do|
+|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/049_Group_Anagrams/solve.cpp)|To Do|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|To Do|To Do|To Do|To Do|
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
-|055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|To Do|To Do|To Do|To Do|
+|055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|To Do|To Do|[C++](https://github.com/ligoudanaierya/Leetcode/blob/master/leetcode-algorithms/055_Jump_Game/solve.cpp)|To Do|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|To Do|To Do|To Do|To Do|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|To Do|To Do|To Do|
